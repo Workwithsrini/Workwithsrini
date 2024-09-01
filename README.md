@@ -12,10 +12,10 @@ public class MyProfile {
   public static void main(String[] args) {
     final var srini = new Developer(
       "Srinivas",
-      "Backend Developer",
-      "Brazil",
-      "Senior Software Engineer",
-      List.of("Car detailing", "FPS Player"),
+      "Backend Architect",
+      "India",
+      "Architect",
+      List.of("Car detailing", "Chess Player"),
       "Tech Architect"
     );
 
